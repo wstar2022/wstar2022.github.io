@@ -1,2 +1,3 @@
-# wstar2022.github.io
-My personal website
+# Website
+
+This is my personal website. Licensed under [GNU General Public License v3.0](LICENSE).
